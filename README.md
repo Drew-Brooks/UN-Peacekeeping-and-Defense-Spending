@@ -10,7 +10,8 @@ Notebooks in order:
 1. UN DPKO Data Exploration -- exploratory data analysis and data carpentry
 2. Capstone Regressions -- linear regressions to answer the question "does defense spending influence contributions to UN peacekeeping operations?" (spoiler alert: no)
 3. Capstone Clustering -- attempts to use K-Means clustering and LDA classification to predict Troop contributions based on the contributor characteristics identified by the IPI, as well as defense spending as percent of Gross Domestic Product, as reported by the World Bank. 
-4. Capstone Dash Work -- light data carpentry and tinkering to make the dashboard work
+4. app.R -- the Shiny code that runs the dashboard
+5. Capstone Dash Work -- light data carpentry and tinkering to make the dashboard work (if you want to see a little more sausage making behind the app.R)
 
 Dashboard: https://shiny.sgn.missouri.edu/students/ban.0878/DATA-SCI-8656/PSDS_capstone/
 
